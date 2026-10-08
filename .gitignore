@@ -1,0 +1,22 @@
+# OS Metadata files (Mac and Windows specific)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and Text Editors settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local log files and caches
+*.log
+.npm/
+.eslintcache
+.parcel-cache/
+dist/
+node_modules/

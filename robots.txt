@@ -1,0 +1,10 @@
+# Global directives for all search engine crawlers
+User-agent: *
+Allow: /
+
+# Directives specifically for Googlebot optimizations
+User-agent: Googlebot
+Allow: /
+
+# Reference to the absolute path of your production sitemap
+Sitemap: https://luxedental.com
